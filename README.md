@@ -1,0 +1,2 @@
+--this code creates docx file.
+--the contents that will be in docx file are already written inside the code
